@@ -19,7 +19,7 @@ Bienvenido a la documentación técnica oficial del proyecto **Arlea**.
 
 ### 3. API (Endpoints)
 - [Auth](api/auth.md)
-- [Usuario](api/usuario.md)
+- [Usuario](api/usuarios.md)
 - [Colorimetría](api/colorimetria.md)
 - [Productos](api/productos.md)
 
