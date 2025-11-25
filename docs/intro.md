@@ -13,13 +13,13 @@ Bienvenido a la documentación técnica oficial del proyecto **Arlea**.
 
 ### 2. Casos de Uso
 - [Auth](casos-de-uso/auth.md)
-- [Usuario](casos-de-uso/usuario.md)
+- [Usuario](casos-de-uso/usuarios.md)
 - [Colorimetría](casos-de-uso/colorimetria.md)
 - [Productos](casos-de-uso/productos.md)
 
 ### 3. API (Endpoints)
 - [Auth](api/auth.md)
-- [Usuario](api/usuarios.md)
+- [Usuario](api/usuario.md)
 - [Colorimetría](api/colorimetria.md)
 - [Productos](api/productos.md)
 
