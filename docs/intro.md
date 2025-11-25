@@ -12,20 +12,20 @@ Esta documentación está organizada por módulos y cubre arquitectura, flujos p
 ## Contenido principal
 
 ### 1. Arquitectura
-- [Arquitectura General](Arquitectura/arquitectura%20general)
+- [Arquitectura General](Arquitectura/arquitectura-general)
 
 
 ### 2. Casos de Uso
-- [Auth](Casos%20de%20uso/auth)
-- [Usuario](Casos%20de%20uso/usuario)
-- [Colorimetría](Casos%20de%20uso/colorimetria)
-- [Productos](Casos%20de%20uso/productos)
+- [Auth](Casos-de-uso/auth)
+- [Usuario](Casos-de-uso/usuario)
+- [Colorimetría](Casos-de-uso/colorimetria)
+- [Productos](Casos-de-uso/productos)
 
 ### 3. API (Endpoints)
-- [Auth](api/auth.md)
-- [Usuario](api/usuario.md)
-- [Colorimetría](api/colorimetria.md)
-- [Productos](api/productos.md)
+- [Auth](Api/auth.md)
+- [Usuario](Api/usuario.md)
+- [Colorimetría](Api/colorimetria.md)
+- [Productos](Api/productos.md)
 
 {/*
 ### 4. Procesos y Workers
