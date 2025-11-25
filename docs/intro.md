@@ -4,28 +4,24 @@ sidebar_position: 1
 
 # Introducción a la Documentación del Proyecto Arlea
 
-Bienvenido a la documentación técnica oficial del proyecto **Arlea**.  
-Este sistema integra análisis de colorimetría mediante IA, gestión de usuarios, catálogo de productos cosméticos y procesos ETL para mantener la información sincronizada con múltiples tiendas.
-
-Esta documentación está organizada por módulos y cubre arquitectura, flujos principales, casos de uso, API, modelos de datos y despliegue.
+Bienvenido a la documentación técnica oficial del proyecto **Arlea**.
 
 ## Contenido principal
 
 ### 1. Arquitectura
-- [Arquitectura General](Arquitectura/arquitectura-general)
-
+- [Arquitectura General](arquitectura/arquitectura-general.md)
 
 ### 2. Casos de Uso
-- [Auth](Casos-de-uso/auth)
-- [Usuario](Casos-de-uso/usuario)
-- [Colorimetría](Casos-de-uso/colorimetria)
-- [Productos](Casos-de-uso/productos)
+- [Auth](casos-de-uso/auth.md)
+- [Usuario](casos-de-uso/usuario.md)
+- [Colorimetría](casos-de-uso/colorimetria.md)
+- [Productos](casos-de-uso/productos.md)
 
 ### 3. API (Endpoints)
-- [Auth](Api/auth.md)
-- [Usuario](Api/usuario.md)
-- [Colorimetría](Api/colorimetria.md)
-- [Productos](Api/productos.md)
+- [Auth](api/auth.md)
+- [Usuario](api/usuario.md)
+- [Colorimetría](api/colorimetria.md)
+- [Productos](api/productos.md)
 
 {/*
 ### 4. Procesos y Workers
