@@ -12,12 +12,14 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://your-docusaurus-site.example.com',
-  baseUrl: '/',
+  url: 'https://LopsidedBus132.github.io',
 
-  organizationName: 'Placeholder',
-  projectName: 'placeholder',
+  baseUrl: '/arlea-docs-api/',
 
+  
+  organizationName: 'LopsidedBus132',   
+  projectName: 'arlea-docs-api',  
+  
   onBrokenLinks: 'throw',
 
   i18n: {
