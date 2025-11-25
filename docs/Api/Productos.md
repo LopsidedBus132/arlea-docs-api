@@ -1,4 +1,4 @@
-# Productos
+# Endpoints — Productos
 
 ## GET /productos
 

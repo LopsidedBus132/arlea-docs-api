@@ -1,4 +1,4 @@
-# Autenticación (AUTH)
+# Endpoints — Autenticación
 
 ## POST /auth/register
 

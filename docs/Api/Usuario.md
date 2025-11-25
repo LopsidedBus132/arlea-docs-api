@@ -1,4 +1,4 @@
-# Usuario
+# Endpoints — Usuario
 
 ## GET /usuario/me
 
