@@ -18,9 +18,9 @@ Bienvenido a la documentación técnica oficial del proyecto **Arlea**.
 - [Productos](casos-de-uso/productos.md)
 
 ### 3. API (Endpoints)
-- [Auth](api/auth.md)
-- [Usuario](api/usuario.md)
-- [Colorimetría](api/colorimetria.md)
+- [Auth](api/auth.mdx)
+- [Usuario](api/usuario.mdx)
+- [Colorimetría](api/colorimetria.mdx)
 - [Productos](api/productos.md)
 
 {/*
